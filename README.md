@@ -1,5 +1,5 @@
 # jizhang
-我叫狗兄弟
+
 ## Project setup
 ```
 npm install
